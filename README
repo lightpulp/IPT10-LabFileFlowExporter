@@ -1,0 +1,37 @@
+# FileFlow Report Exporter
+
+FileFlow Report Exporter is a PHP CLI application that exports service records into text or JSON report files. It demonstrates the use of the Singleton, Factory Method, and interface-based design patterns to provide a consistent and extensible export workflow.
+
+## Requirements
+
+* PHP CLI
+* Composer
+
+## Setup
+
+Clone or download the project, then install the Composer dependencies:
+
+```bash
+composer install
+composer dump-autoload
+```
+
+## Usage
+
+Export the report as a text file:
+
+```bash
+php app.php txt
+```
+
+Export the report as a JSON file:
+
+```bash
+php app.php json
+```
+
+Generated reports are saved in the `output/` directory.
+
+## Student Developers
+
+* Ron Brian Rodriguez
