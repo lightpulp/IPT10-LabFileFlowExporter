@@ -1,0 +1,17 @@
+{
+    "name": "law/fileflow-pattern-lab",
+    "description": "Singleton and Factory Method laboratory",
+    "type": "project",
+    "autoload": {
+        "psr-4": {
+            "App\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "lightpulp",
+            "email": "rbrian1105@gmail.com"
+        }
+    ],
+    "require": {}
+}
