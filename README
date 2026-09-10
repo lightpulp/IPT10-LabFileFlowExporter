@@ -4,8 +4,8 @@ FileFlow Report Exporter is a PHP CLI application that exports service records i
 
 ## Requirements
 
-* PHP CLI
-* Composer
+- PHP CLI
+- Composer
 
 ## Setup
 
@@ -34,4 +34,4 @@ Generated reports are saved in the `output/` directory.
 
 ## Student Developers
 
-* Ron Brian Rodriguez
+- Ron Brian Rodriguez
